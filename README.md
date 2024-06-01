@@ -17,5 +17,5 @@ The data used in this project can be obtained from reputable sources :
 
 ## Tools Used
 Microsoft SQL Server
-Microsoft Excel
-Tableau
+<br>Microsoft Excel
+<br>Tableau
