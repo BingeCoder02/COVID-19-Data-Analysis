@@ -13,7 +13,7 @@ Heatmaps for visualizing the intensity of cases geographically.
 
 ## Data
 The data used in this project can be obtained from reputable sources :
-# <a href = "https://ourworldindata.org/covid-deaths" target = "_main"> Our World in Data - Covid Deaths </a>
+ <a href = "https://ourworldindata.org/covid-deaths" target = "_main"> Our World in Data - Covid Deaths </a>
 
 ## Tools Used
 Microsoft SQL Server
