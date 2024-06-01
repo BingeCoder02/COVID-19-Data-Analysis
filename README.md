@@ -12,7 +12,7 @@ Bar charts for comparing data across countries/regions. <br>
 Heatmaps for visualizing the intensity of cases geographically.
 
 ## Tableau Dashboard
- <a href = "https://public.tableau.com/views/Covid19Analysis_17172339917640/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target = "_main"> Covid 19 dashboard </a>
+ <a href = "https://public.tableau.com/views/Covid19Analysis_17172339917640/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target = "_main"> Covid 19 dashboard </a> <br>
  ![covid prj ss](https://github.com/BingeCoder02/COVID-19-Data-Analysis/assets/149510848/85be0752-1e37-476d-94ca-8a49ea18fee5)
 
 
