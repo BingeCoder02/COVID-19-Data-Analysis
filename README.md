@@ -11,9 +11,9 @@ Line charts for time series analysis. <br>
 Bar charts for comparing data across countries/regions. <br>
 Heatmaps for visualizing the intensity of cases geographically.
 
-## Data
-The data used in this project can be obtained from reputable sources : <br>
- <a href = "https://ourworldindata.org/covid-deaths" target = "_main"> Our World in Data - Covid Deaths </a>
+## Tableau Dashboard
+ <a href = "https://public.tableau.com/views/Covid19Analysis_17172339917640/Dashboard1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target = "_main"> Covid 19 dashboard </a>
+
 
 ## Data
 The data used in this project can be obtained from reputable sources : <br>
