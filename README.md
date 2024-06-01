@@ -12,8 +12,8 @@ Bar charts for comparing data across countries/regions.
 Heatmaps for visualizing the intensity of cases geographically.
 
 ## Data
-The data used in this project can be obtained from reputable sources such as:
-<a href = "https://ourworldindata.org/covid-deaths" target = "_main"> Our World in Data - Covid Deaths </a>
+The data used in this project can be obtained from reputable sources :
+# <a href = "https://ourworldindata.org/covid-deaths" target = "_main"> Our World in Data - Covid Deaths </a>
 
 ## Tools Used
 Microsoft SQL Server
